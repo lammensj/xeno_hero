@@ -71,6 +71,7 @@
   top: 0;
   width: 100%;
   z-index: 1;
+  display: block;
 }
 
 [data-overlay] *:not(.paragraph):not(.paragraph--type--xeno-hero__image) {
