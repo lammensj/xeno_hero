@@ -32,14 +32,10 @@
 
 /* Background Image. */
 .paragraph--type--xeno-hero__image {
-  background-attachment: scroll;
+  background: #252525 none no-repeat scroll center center;
   background-clip: border-box;
-  background-color: #252525;
-  background-image: none;
   background-origin: padding-box;
-  background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
   height: 100%;
   left: 0;
   opacity: 1;
